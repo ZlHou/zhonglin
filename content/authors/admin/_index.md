@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 侯中林
+title: Zhonglin Hou
 
 # Name pronunciation (optional)
-name_pronunciation: Zhonglin Hou
+# name_pronunciation: Zhonglin Hou
 
 # Full name (for SEO)
 first_name: Zhonglin
