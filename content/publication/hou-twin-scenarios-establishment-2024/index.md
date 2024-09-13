@@ -7,8 +7,7 @@ authors:
 - Hong Liu
 - Yanzhao Yang
 - Yan Zhang
-date: '2024-01-01'
-publishDate: '2024-09-13T07:06:05.147681Z'
+date: '2023-08-11'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Intelligent Vehicles*'

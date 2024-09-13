@@ -10,6 +10,7 @@ authors:
 - Yanzhao Yang
 date: 2023-10-10
 doi: 10.1109/VTC2023-Fall60731.2023.10333638
+publication: '*2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall)*'
 publication_types:
 - article-journal
 abstract: Detecting and understanding driver behaviors in automated vehicles are critical

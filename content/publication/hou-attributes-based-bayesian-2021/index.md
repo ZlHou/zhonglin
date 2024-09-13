@@ -5,11 +5,11 @@ authors:
 - Zhonglin Hou
 - Hong Liu
 - Yan Zhang
-date: '2021-12-01'
+date: '2021-12-20'
 publishDate: '2024-09-13T07:06:05.131792Z'
 publication_types:
 - paper-conference
-publication: '*2021 IEEE 23rd Int Conf on High Performance Computing & Communications*'
+publication: '*2021 IEEE 23rd Int Conf on High Performance Computing & Communications (HPCC)*'
 doi: 10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00137
 abstract: Safety of the intended functionality is an indispensable safe condition
   that must be considered for autonomous driving on the road. The key to study SOTIF
