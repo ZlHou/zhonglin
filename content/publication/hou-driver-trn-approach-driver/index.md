@@ -8,8 +8,8 @@ authors:
 - Dong Liu
 - Hong Liu
 - Yanzhao Yang
-date: -01-01
-publishDate: '2024-09-13T07:06:05.139319Z'
+date: 2023-10-10
+doi: 10.1109/VTC2023-Fall60731.2023.10333638
 publication_types:
 - article-journal
 abstract: Detecting and understanding driver behaviors in automated vehicles are critical

@@ -9,9 +9,7 @@ date: '2021-12-01'
 publishDate: '2024-09-13T07:06:05.131792Z'
 publication_types:
 - paper-conference
-publication: '*2021 IEEE 23rd Int Conf on High Performance Computing & Communications;
-  7th Int Conf on Data Science & Systems; 19th Int Conf on Smart City; 7th Int Conf
-  on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys)*'
+publication: '*2021 IEEE 23rd Int Conf on High Performance Computing & Communications*'
 doi: 10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00137
 abstract: Safety of the intended functionality is an indispensable safe condition
   that must be considered for autonomous driving on the road. The key to study SOTIF
