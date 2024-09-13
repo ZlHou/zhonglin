@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/0000-0001-9450-3132
 
 interests:
-  - Safety of The Intended Functionality (SOTIF)
+  - Safety of The Intended Functionality
   - Safety Assessment
   - Scenario Generation
 
