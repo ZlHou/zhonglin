@@ -6,7 +6,7 @@ authors:
 - Dong Liu
 - Yanzhao Yang
 - Hong Liu
-date: '2024-01-01'
+date: '2024-07-05'
 publishDate: '2024-09-13T07:06:05.121690Z'
 publication_types:
 - article-journal
@@ -29,5 +29,4 @@ abstract: Safety of the Intended Functionality (SOTIF) is paramount in autonomou
   the risk assessment coverage of Noisy-HBN has reached the stateof-the-art (SOTA)
   level.
 tags:
-- /unread
 ---
