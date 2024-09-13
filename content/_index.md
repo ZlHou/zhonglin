@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research primarily focuses on scenario generation and risk assessment for safety of the intended functionality (SOTIF). I have developed models using Hierarchical Bayesian Networks integrated with noise nodes to evaluate unknown risks in autonomous driving. Additionally, I have created a twin scenario generation algorithm based on real-world scenarios to enhance virtual testing. This work aims to transform unknown unsafe scenarios into known ones, improving the safety and reliability of autonomous driving systems. 
+        
+        I am also involved in several collaborative projects on intelligent vehicle safety and hold multiple patents in the field of SOTIF for automated vehicles.
         
         Please reach out to collaborate 😃
     design:
