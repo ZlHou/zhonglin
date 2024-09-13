@@ -158,14 +158,14 @@ awards:
     url:  https://vtsociety.org/membership-award/ieee-vehicular-technology-society-student-travel-awards
     date: '2023-11-01'
     awarder: IEEE Vehicular Technology Society
-    # icon: 'https://vtsociety.org/files/ieeevts/vts-logo-with-text.svg'
+    icon: 'https://vtsociety.org/files/ieeevts/vts-logo-with-text.svg'
     # summary: |
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: China Scholarship Council Postgraduate Research Visiting Scholarship
     url: 
     date: '2023-07-01'
     awarder: China Scholarship Council
-    # icon: 'https://www.csc.edu.cn/favicon.ico'
+    icon: 'https://www.csc.edu.cn/favicon.ico'
     # summary: |
     #   Learned:
     #   - Synthesize your own blockchain solutions
